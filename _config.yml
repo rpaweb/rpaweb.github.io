@@ -12,7 +12,7 @@ picture_about: 'assets/images/v2/picture_about.jpg'
 picture_favicon: 'assets/images/v2/twAvatar.jpg'
 
 baseurl: ""
-url: "https://rpaweb.github.io/"
+url: "https://rpaweb.github.io"
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
