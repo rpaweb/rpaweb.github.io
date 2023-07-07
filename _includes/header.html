@@ -1,12 +1,10 @@
 {% if page.title == "Home" %}
     <header class="home__header">
-        <!-- <img alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture_home }}" oncontextmenu="return false;" /> -->
-
         <h1>{{ site.salute }} <span>{{ site.name }}</span>!</h1>
         <h2>{{ site.bio }}</h2>
 
         <div class="home__header-social">
-            {% capture root %}{{ site.url }}/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}{% endcapture %}
+            {% capture root %}{{ site.url }}/{% endcapture %}
             <a href="{{ root }}about"><i class="fa-solid fa-fingerprint"></i></a>
             <a href="https://github.com/{{ site.github }}" target="_blank"><i class="fa-brands fa-github"></i></a>
             <a href="https://ruby.social/{{ site.mastodon }}" target="_blank"><i class="fa-brands fa-mastodon"></i></a>

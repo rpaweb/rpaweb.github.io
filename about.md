@@ -4,7 +4,7 @@ layout: page
 permalink: /about
 ---
 
-<img class="picture_about" src="{{ site.url }}/{{ site.picture_about }}" oncontextmenu="return false;" />
+<img alt="RPA pic" class="picture_about" src="{{ site.url }}/{{ site.picture_about }}" oncontextmenu="return false;" />
 
 <h2>Me.</h2>
 
@@ -26,18 +26,18 @@ permalink: /about
 <p align='justify'>My first job as a Full-Stack RubyOnRails Jr Developer was at Clue Code, a bespoke web and mobile apps development company. Also, outside of the developmental area, I worked as responsible for the Community and Content Management at the University of Magdalena (in their Educational and Pedagogical Tech Center) and at Revista Tayrona, a multicultural magazine established in Santa Marta, Colombia.</p><br />
 
 <h2>Pictures.</h2>
-{% capture root %}{{ site.url }}/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}{% endcapture %}
+{% capture root %}{{ site.url }}/{% endcapture %}
 
-<img src="{{ root }}/assets/images/v2/speaking1.jpg" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture speaking 1" src="{{ root }}/assets/images/v2/speaking1.jpg" style="width:100%;" oncontextmenu="return false;" />
 
-<img src="{{ root }}/assets/images/v2/speaking2.jpg" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture speaking 2" src="{{ root }}/assets/images/v2/speaking2.jpg" style="width:100%;" oncontextmenu="return false;" />
 
-<img src="{{ root }}/assets/images/v2/rafasamuelmeet.jpg" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture communities" src="{{ root }}/assets/images/v2/rafasamuelmeet.jpg" style="width:100%;" oncontextmenu="return false;" />
 
-<img src="{{ root }}/assets/images/nasa.jpg" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture nasa" src="{{ root }}/assets/images/nasa.jpg" style="width:100%;" oncontextmenu="return false;" />
 
-<img src="{{ root }}/assets/images/tom2.png" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture tom" src="{{ root }}/assets/images/tom2.png" style="width:100%;" oncontextmenu="return false;" />
 
-<img src="{{ root }}/assets/images/bombo.jpg" style="width:100%;" oncontextmenu="return false;" />
+<img alt="picture bombonera" src="{{ root }}/assets/images/bombo.jpg" style="width:100%;" oncontextmenu="return false;" />
 
 <a class="about-back" href="{{ root }}"><i class="fa-solid fa-circle-arrow-left"></i></a>
