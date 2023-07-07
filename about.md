@@ -29,6 +29,8 @@ permalink: /about
 
 <img alt="picture speaking 1" src="{{ site.url }}//assets/images/v2/speaking1.jpg" style="width:100%;" oncontextmenu="return false;" />
 
+<img alt="picture tenderlove" src="{{ site.url }}//assets/images/v2/tenderlove.jpg" style="width:100%;" oncontextmenu="return false;" />
+
 <img alt="picture speaking 2" src="{{ site.url }}//assets/images/v2/speaking2.jpg" style="width:100%;" oncontextmenu="return false;" />
 
 <img alt="picture communities" src="{{ site.url }}//assets/images/v2/rafasamuelmeet.jpg" style="width:100%;" oncontextmenu="return false;" />
