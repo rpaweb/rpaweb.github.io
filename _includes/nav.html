@@ -1,0 +1,20 @@
+<!-- 
+<nav class="{% if page.title == "Home" %}nav{% else %}nav{% endif %}">
+  <ul>
+    {% capture root %}{{ site.url }}/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}{% endcapture %}
+    {% if page.title != "Home" %}<li><a href="{{ root }}">{% t global.nav.home %}</a></li>{% endif %}
+    {% if page.title != "About" %}<li><a href="{{ root }}about">{% t global.nav.about %}</a></li>{% endif %}
+    {% if page.title != "Devlog" %}<li><a href="{{ root }}devlog">{% t global.nav.blog %}</a></li>{% endif %}
+  </ul>
+</nav>
+-->
+<nav class="lang-nav">
+  <ul>
+    {% capture invertedroot %}{{ site.url }}{% if site.lang == 'en' %}/es{% endif %}{{ page.url }}{% endcapture %}
+    <li>
+      <a href="{{ invertedroot }}">
+        <img src="{{ site.url }}/assets/images/lang/{{ site.lang }}.png" style="width:5%;" oncontextmenu="return false;" />
+      </a>
+    </li>
+  </ul>
+</nav>

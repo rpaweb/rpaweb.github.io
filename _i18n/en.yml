@@ -1,0 +1,12 @@
+global:
+  website: Website
+  nav:
+    home: home
+    about: about
+    blog: devlog
+  back: back
+portfolio:
+  type: Type
+  role: Role
+  build: Build
+  refs: Links

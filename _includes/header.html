@@ -1,0 +1,19 @@
+{% if page.title == "Home" %}
+    <header class="home__header">
+        <!-- <img alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture_home }}" oncontextmenu="return false;" /> -->
+
+        <h1>{% if site.lang == "en" %}{{ site.salute }}{% elsif site.lang == "es" %}{{ site.salute-es }}{% endif %} <span>{{ site.name }}</span>!</h1>
+        <h2>{% if site.lang == "en" %}{{ site.bio }}{% elsif site.lang == "es" %}{{ site.bio-es }}{% endif %}</h2>
+
+        <div class="home__header-social">
+            {% capture root %}{{ site.url }}/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}{% endcapture %}
+            <a href="{{ root }}about"><i class="fa-solid fa-fingerprint"></i></a>
+            <a href="https://github.com/{{ site.github }}" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://ruby.social/{{ site.mastodon }}" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
+            <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+            <a href="https://dev.to/{{ site.devto }}" target="_blank"><i class="fa-brands fa-dev"></i></a>
+            <a href="https://linkedin.com/{{ site.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://instagram.com/{{ site.instagram }}" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+    </header>
+{% endif %}

@@ -1,0 +1,96 @@
+title: Rafael Peña-Azar
+name: Rafa
+username: rpaweb
+largename: Rafael Peña-Azar
+salute: "Hi 👋🏼 I'm"
+# salute-es: "Hola 👋🏼 Soy"
+bio: "Colombian. Software Engineer. RubyOnRails Evangelizer.<br />Dad. Husband. Full-Stack Dev. Speaker. Gamer. Xeneize.<br />Ruby/Rails. JavaScript. Crystal/Amber. Elixir/Phoenix."
+# bio-es: "Colombiano. Ingeniero de Software. Evangelizador de RubyOnRails.<br />Papá. Esposo. Desarrollador. Orador. Videojugador. Xeneize.<br />Ruby/Rails. JavaScript. Crystal/Amber. Elixir/Phoenix."
+
+picture_home: 'assets/images/v2/picture_home.jpeg'
+picture_about: 'assets/images/v2/picture_about.jpg'
+picture_favicon: 'assets/images/v2/twAvatar.jpg'
+
+baseurl: ""
+url: "https://rpaweb.github.io/"
+permalink: /:title/
+
+analytics: 'UA-MYANALYTICS'
+disqus: rpaweb
+facebook: "rpa.rb"
+twitter: rpaweb
+instagram: rpaweb
+linkedin: "in/rpaweb"
+github: rpaweb
+mastodon: "@rpaweb"
+devto: rpaweb
+email: ingrepa0214@gmail.com
+smrburl: "https://twitter.com/hashtag/rubysantamarta"
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
+
+# if you don't need pagination, comment the *paginate* configs below
+paginate: 5
+paginate_path: "devlog/:num/"
+
+plugins:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-multiple-languages-plugin
+  - kramdown
+  - rouge
+
+languages: ["en", "es"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
+markdown: kramdown
+highlighter: rouge
+
+jekyll-mentions:
+  base_url: https://github.com
+
+# websites:
+#   cajamag: <a target="blank" href="https://portal.cajamag.com.co">Website</a>
+#   rpa: <a target="blank" href="http://rpa.website">Website</a>
+#   ruc: <a target="blank" href="http://ructp.com">Website</a>
+#   tayrona: <a target="blank" href="http://tayronavirtual.com.co">Website</a>
+# websites-es:
+#   cajamag: <a target="blank" href="https://portal.cajamag.com.co">Sitio web</a>
+#   rpa: <a target="blank" href="http://rpa.website">Sitio web</a>
+#   ruc: <a target="blank" href="http://ructp.com">Sitio web</a>
+#   tayrona: <a target="blank" href="http://tayronavirtual.com.co">Sitio web</a>
+
+# repositories:
+#   anagram_finder: <a target="blank" href="https://github.com/rpaweb/anagram_finder">Repository</a>
+#   compass: <a target="blank" href="https://github.com/rpaweb/compass">Repository</a>
+#   oauth: <a target="blank" href="https://github.com/rpaweb/oauth_api_base">Repository</a>
+#   prizes: <a target="blank" href="https://github.com/rpaweb/prizes">Repository</a>
+#   rpa: <a target="blank" href="https://github.com/rpaweb/rpaweb.github.io">Repository</a>
+# repositories-es:
+#   anagram_finder: <a target="blank" href="https://github.com/rpaweb/anagram_finder">Repositorio</a>
+#   compass: <a target="blank" href="https://github.com/rpaweb/compass">Repositorio</a>
+#   oauth: <a target="blank" href="https://github.com/rpaweb/oauth_api_base">Repositorio</a>
+#   prizes: <a target="blank" href="https://github.com/rpaweb/prizes">Repositorio</a>
+#   rpa: <a target="blank" href="https://github.com/rpaweb/rpaweb.github.io">Repositorio</a>
+
+# platforms:
+#   android: <a target="blank" href="https://en.wikipedia.org/wiki/Android_software_development">Java/Android</a>
+#   bootstrap: <a target="blank" href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">CSS3/Bootstrap</a>
+#   gmaps: <a target="blank" href="https://en.wikipedia.org/wiki/Google_Maps">GMaps</a>
+#   haml: <a target="blank" href="https://en.wikipedia.org/wiki/Haml">HAML</a>
+#   html5: <a target="blank" href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>
+#   ios: <a target="blank" href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift/iOS</a>
+#   javascript: <a target="blank" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>
+#   jekyll: <a target="blank" href="https://en.wikipedia.org/wiki/Jekyll_(software)">Jekyll</a>
+#   jquery: <a target="blank" href="https://en.wikipedia.org/wiki/JQuery">jQuery</a>
+#   jsp: <a target="blank" href="https://en.wikipedia.org/wiki/JavaServer_Pages">Java/JSP</a>
+#   parallax: <a target="blank" href="http://stackoverflow.com/tags/parallax.js/info">Parallax</a>
+#   php: <a target="blank" href="https://en.wikipedia.org/wiki/Laravel">PHP/Laravel</a>
+#   rails: <a target="blank" href="https://en.wikipedia.org/wiki/Ruby_on_Rails">Rails</a>
+#   ruby: <a target="blank" href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a>
+#   rubygems: <a target="blank" href="https://en.wikipedia.org/wiki/RubyGems">Gems</a>

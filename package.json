@@ -1,0 +1,31 @@
+{
+  "name": "rpaweb.github.io",
+  "version": "2.0.0",
+  "author": "RPA",
+  "main": "gulpfile.js",
+  "homepage": "https://github.com/rpaweb/rpaweb.github.io#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaweb/rpaweb.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rpaweb/rpaweb.github.io/issues"
+  },
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.8.1",
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-stylus": "^2.2.0",
+    "nib": "^1.1.0",
+    "rupture": "^0.6.1"
+  },
+  "scripts": {
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "test": "bundle exec htmlproof ./_site --verbose"
+  }
+}
