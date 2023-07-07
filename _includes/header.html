@@ -2,8 +2,8 @@
     <header class="home__header">
         <!-- <img alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture_home }}" oncontextmenu="return false;" /> -->
 
-        <h1>{% if site.lang == "en" %}{{ site.salute }}{% elsif site.lang == "es" %}{{ site.salute-es }}{% endif %} <span>{{ site.name }}</span>!</h1>
-        <h2>{% if site.lang == "en" %}{{ site.bio }}{% elsif site.lang == "es" %}{{ site.bio-es }}{% endif %}</h2>
+        <h1>{{ site.salute }} <span>{{ site.name }}</span>!</h1>
+        <h2>{{ site.bio }}</h2>
 
         <div class="home__header-social">
             {% capture root %}{{ site.url }}/{% if site.lang != 'en' %}{{ site.lang }}/{% endif %}{% endcapture %}
