@@ -28,38 +28,6 @@ permalink: /about
 
 <h2>Pictures.</h2>
 
-<img alt="picture speaking 2-1" src="{{ site.url }}//assets/images/v2/euruko20240913.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-2" src="{{ site.url }}//assets/images/v2/euruko20240913-2.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-3" src="{{ site.url }}//assets/images/v2/euruko20240913-3.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-4" src="{{ site.url }}//assets/images/v2/euruko20240913-4.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-1" src="{{ site.url }}//assets/images/v2/euruko-1.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-2" src="{{ site.url }}//assets/images/v2/euruko-2.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-3" src="{{ site.url }}//assets/images/v2/euruko-3.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-4" src="{{ site.url }}//assets/images/v2/euruko-4.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-5" src="{{ site.url }}//assets/images/v2/euruko-5.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2-5-6" src="{{ site.url }}//assets/images/v2/euruko-6.jpeg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 1" src="{{ site.url }}//assets/images/v2/speaking1.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture tenderlove" src="{{ site.url }}//assets/images/v2/tenderlove.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture speaking 2" src="{{ site.url }}//assets/images/v2/speaking2.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture communities" src="{{ site.url }}//assets/images/v2/rafasamuelmeet.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture nasa" src="{{ site.url }}//assets/images/nasa.jpg" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture tom" src="{{ site.url }}//assets/images/tom2.png" style="width:100%;" oncontextmenu="return false;" />
-
-<img alt="picture bombonera" src="{{ site.url }}//assets/images/bombo.jpg" style="width:100%;" oncontextmenu="return false;" />
+{% include pictures.html %}
 
 <a class="about-back" href="{{ site.url }}"><i class="fa-solid fa-circle-arrow-left"></i></a>
