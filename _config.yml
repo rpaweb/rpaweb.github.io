@@ -4,8 +4,8 @@ username: rpaweb
 largename: Rafael Peña-Azar
 salute: "Hi 👋🏼 I'm"
 # salute-es: "Hola 👋🏼 Soy"
-bio: "Colombian. Father of three boys. Building <a href='https://bit.ly/skeletor-early-website' target='_blank'>skeletor.io</a>.<br />Software Engineer. International Conference Speaker.<br />Ruby/Rails, Elixir/Phoenix, Crystal, PHP, JavaScript, C."
-# bio-es: "Colombiano. Ingeniero de Software. Desarrollando <a href='https://skeletor.io' target='_blank'>skeletor.io</a>.<br />Papá. Esposo. Desarrollador. Orador. Videojugador. Xeneize.<br />Ruby/Rails. JavaScript. Crystal/Amber. Elixir/Phoenix."
+bio: "Colombian. Father of three boys. Building <a href='https://pragon.build' target='_blank'>pragon.build</a>.<br />Software Engineer. International Conference Speaker.<br />Ruby/Rails, Elixir/Phoenix, Crystal, PHP, JavaScript, C."
+# bio-es: "Colombiano. Ingeniero de Software. Desarrollando <a href='https://pragon.build' target='_blank'>pragon.build</a>.<br />Papá. Esposo. Desarrollador. Orador. Videojugador. Xeneize.<br />Ruby/Rails. JavaScript. Crystal/Amber. Elixir/Phoenix."
 
 picture_home: 'assets/images/v2/picture_home.jpeg'
 picture_about: 'assets/images/v2/twAvatar2.jpg'
