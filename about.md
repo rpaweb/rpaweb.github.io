@@ -12,8 +12,7 @@ permalink: /about
 
 <h2>My work.</h2>
 
-<p align='justify'>Currently, I'm a Senior Software Engineer at <a href="https://encora.com" target="_blank">Encora</a> (US) working directly with one of its partners, <a href="https://cision.com" target="_blank">Cision</a> (AU/NZ), in one of its biggest projects, CisionOne, the ultimate media intelligence platform that delivers media monitoring, analytics, and influencer engagement, all in one place.</p>
-<p align='justify'>Also, I'm currently building <a href="https://pragon.build" target="_blank">pragon.build</a> as one of my main side-projects, and I'm running RubySantaMarta (I'm also the founder), a Ruby user-group based on Santa Marta, Colombia; overall introducing Ruby to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby remotely.</p><br />
+<p align='justify'>I'm currently building <a href="https://pragon.build" target="_blank">pragon.build</a> as one of my main side-projects, and I'm running RubySantaMarta (I'm also the founder), a Ruby user-group based on Santa Marta, Colombia; overall introducing Ruby to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby remotely.</p><br />
 
 <h2>My whole experience.</h2>
 
