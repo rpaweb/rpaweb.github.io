@@ -10,9 +10,10 @@ permalink: /about
 
 <p align='justify'>My name is RAFAEL PEÑA-AZAR. Born in Colombia. Software engineer. Well known as a RubyOnRails evangelizer. Systems Engineering professional from Unimagdalena (Colombia). I have a Master's degree in Web Engineering from Universidad Internacional de La Rioja (Spain) where I got the highest qualification in my degree thesis (with a project focused on RubyOnRails developers). Also, certified in Software Quality Management/Assurance (SQM/A) and Software Testing. Passionate coder. I love to speak in public (I'll update this later to share my talks here and the slides I used in them). Teacher/Mentor. Love all about Ruby (and Rails, and all the infinite infinity gems 🤣). Crazy about Hotwire (Turbo, Stimulus, Native). I'm also a Crystal enthusiast; and outside of the Ruby ecosystem I like Elixir and Phoenix a lot. Also time to time I work with Laravel, and make some deep work with C. Married since 2017 with the most beautiful girl. Father of the 3 smartest kids in existence: Benjamin, Nicolas and Tomas. I was also an active TCG professional player (and champion) in the past (don't know if I'll ever have the time to make a comeback 🤣). Madness-level fan of Club Atlético Boca Juniors since forever, being the only football/soccer team I really support. Overall, I'm a friendly guy and a family man.</p><br />
 
-<h2>My work.</h2>
+<h2>My current work.</h2>
 
-<p align='justify'>I'm currently building <a href="https://pragon.build" target="_blank">pragon.build</a> as one of my main side-projects, and I'm running RubySantaMarta (I'm also the founder), a Ruby user-group based on Santa Marta, Colombia; overall introducing Ruby to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby remotely.</p><br />
+<!--<p align='justify'>Currently, I'm working as an independent contractor at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, serving as a [...], [...]</p>-->
+<p align='justify'>I'm currently focused on working on <a href="https://pragon.build" target="_blank">PRAGON</a>, which is my main personal project that is also about to be launched in its alpha version. Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia) overall introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby, remotely.</p><br />
 
 <h2>My whole experience.</h2>
 
