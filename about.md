@@ -12,8 +12,8 @@ permalink: /about
 
 <h2>My current work.</h2>
 
-<!--<p align='justify'>Currently, I'm working as an independent contractor at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, serving as a [...], [...]</p>-->
-<p align='justify'>I'm currently focused on working on <a href="https://pragon.build" target="_blank">PRAGON</a>, which is my main personal project that is also about to be launched in its alpha version. Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia) overall introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby, remotely.</p><br />
+<p align='justify'>Currently, I'm working as Engineering Lead at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, leading a bunch of interesting projects from international clients and funded/seeded startups.</p>
+<p align='justify'>I'm also focused on building <a href="https://pragon.build" target="_blank">PRAGON</a>, which is my main personal project that is also about to be launched in its alpha version. Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia) overall introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby, remotely.</p><br />
 
 <h2>My whole experience.</h2>
 
