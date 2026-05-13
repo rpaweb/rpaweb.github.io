@@ -12,8 +12,17 @@ permalink: /about
 
 <h2>My current work.</h2>
 
-<p align='justify'>Currently, I'm working as Engineering Lead at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, leading a bunch of interesting projects from international clients and funded/seeded startups.</p>
-<p align='justify'>I'm also focused on building <a href="https://pragon.build" target="_blank">PRAGON</a>, which is my main personal project that is also about to be launched in its alpha version. Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia) overall introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby, remotely.</p><br />
+<p align='justify'>Currently, I'm working as Principal Engineer and OSS Strategy Lead at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, leading a bunch of interesting projects from international clients and funded/seeded startups. I'm also leading the company's open source strategy — where, for example, we've already launched <a href="https://rubygems.org/gems/jet_ui" target="_blank">jet_ui</a>.</p>
+<p align='justify'>I'm also focused on building <a href="https://pragon.build" target="_blank">PRAGON</a>, which is my main personal project that is also about to be launched in its alpha version. Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia) overall introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them to get jobs on Ruby, remotely. On top of that, I have an active presence in the Ruby and Rails community — attending, supporting, and speaking at meetups and conferences, which is something I'm genuinely passionate about and that keeps me close to the pulse of the ecosystem.</p><br />
+
+<h2>Speaking.</h2>
+
+<p align='justify'>I've been sharing knowledge through meetups and community events across Santa Marta and Colombia for years. Beyond that, I've had the opportunity to take that to the international stage as well — some of those talks are listed below.</p>
+
+<ul>
+  <li><strong>EuRuKo 2024</strong> — <a href="https://www.rubyevents.org/talks/how-ruby-forged-crystal" target="_blank">How Ruby Forged Crystal</a></li>
+  <li><strong>Tropical on Rails 2026</strong> — Generators are APIs: Designing Better DX in Rails <em>(recording coming soon)</em></li>
+</ul><br />
 
 <h2>My whole experience.</h2>
 
