@@ -19,27 +19,7 @@ permalink: /about
 
 <p align='justify'>I've been sharing knowledge through meetups and community events across Santa Marta and Colombia for years. Beyond that, I've had the opportunity to take that to the international stage as well — some of those talks are listed below.</p>
 
-<div style="margin: 1.5rem 0; padding-left: 15px; border-left: 3px solid #4b0082;">
-  <p style="margin: 0; font-size: 1.2rem; color: #aaa; font-weight: 300; text-transform: uppercase; letter-spacing: 1px;">EuRuKo 2024</p>
-  <p style="margin: 0.1rem 0 0; font-size: 1.2rem; color: #aaa; font-weight: 300;">Sarajevo, Bosnia i Herzegovina — September 2024</p>
-  <p style="margin: 0.4rem 0 0.3rem;">Talk: How Ruby Forged Crystal</p>
-  <span style="font-size: 1.3rem; font-weight: 300; color: #aaa;">Links →</span>
-  <a href="https://www.rubyevents.org/talks/how-ruby-forged-crystal" target="_blank" style="font-size: 1.3rem; font-weight: 300;">RubyEvents.org</a>
-  <span style="font-size: 1.3rem; color: #aaa;"> | </span>
-  <a href="https://www.youtube.com/watch?v=f7_qc7CWKV8" target="_blank" style="font-size: 1.3rem; font-weight: 300;">YouTube</a>
-  <span style="font-size: 1.3rem; color: #aaa;"> | </span>
-  <a href="https://speakerdeck.com/rpaweb/euruko-2024-how-ruby-forged-crystal" target="_blank" style="font-size: 1.3rem; font-weight: 300;">Slides</a>
-</div>
-
-<div style="margin: 1.5rem 0; padding-left: 15px; border-left: 3px solid #4b0082;">
-  <p style="margin: 0; font-size: 1.2rem; color: #aaa; font-weight: 300; text-transform: uppercase; letter-spacing: 1px;">Tropical on Rails 2026</p>
-  <p style="margin: 0.1rem 0 0; font-size: 1.2rem; color: #aaa; font-weight: 300;">São Paulo, Brazil — April 2026</p>
-  <p style="margin: 0.4rem 0 0.3rem;">Talk: Generators are APIs — Designing Better DX in Rails</p>
-  <span style="font-size: 1.3rem; font-weight: 300; color: #aaa;">Links →</span>
-  <a href="https://www.rubyevents.org/talks/generators-are-apis-designing-better-dx-in-rails" target="_blank" style="font-size: 1.3rem; font-weight: 300;">RubyEvents.org</a>
-  <span style="font-size: 1.3rem; color: #aaa;"> | YouTube | </span>
-  <a href="https://speakerdeck.com/rpaweb/tropical-on-rails-2026-generators-are-apis-designing-better-dx-in-rails" target="_blank" style="font-size: 1.3rem; font-weight: 300;">Slides</a>
-</div><br />
+{% include speaking.html %}<br />
 
 <h2>My whole experience.</h2>
 
