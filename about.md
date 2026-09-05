@@ -13,7 +13,7 @@ permalink: /about
 <h2>My current work.</h2>
 
 <p align='justify'>Currently, I'm working as Principal Engineer at <a href="https://jetrockets.com" target="_blank">JetRockets</a>, leading a bunch of interesting projects from international clients and funded/seeded startups. I'm also leading the company's open source strategy — where, for example, we've already launched (and keep maintaining) the <a href="https://rubygems.org/gems/jet_ui" target="_blank">jet_ui</a> gem.</p>
-<p align='justify'>I'm also focused on building <a href="https://pragon.build" target="_blank">PRAGON</a>, my main personal project, which is about to be launched in its alpha version.</p>
+<p align='justify'>I'm also focused on building <a href="https://pragon.build" target="_blank">PRAGON</a>, my main personal project, which is being worked to be launched in its alpha version, soon.</p>
 <p align='justify'>I also recently launched <a href="https://owlook.dev" target="_blank">Owlook</a>, an open-source app/plugin for Omarchy that brings CI, deploy, and job queue status right into your bar, so you don't have to jump between a CI dashboard, a terminal, and a queue viewer to know if production is actually okay.</p>
 <p align='justify'>Plus, I'm the founder of RubySantaMarta, a Ruby user-group that I run, based in Santa Marta (Colombia), introducing Ruby and Rails to local developers, adding them into the vast Ruby community around the world, and helping them get jobs on Ruby, remotely. On top of that, I have an active presence in the Ruby and Rails community — attending, supporting, and speaking at meetups and conferences, which is something I'm genuinely passionate about and that keeps me close to the pulse of the ecosystem.</p><br />
 
